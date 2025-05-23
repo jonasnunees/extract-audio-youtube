@@ -27,9 +27,9 @@ Um programa simples em C para extrair o áudio de vídeos do YouTube e convertê
 Clone o repositório e compile o programa com `gcc`:
 
 ```
-git clone https://github.com/seu-usuario/youtube-audio-extractor-c.git
+git clone https://github.com/jonasnunees/extract-audio-youtube.git
 cd youtube-audio-extractor-c
-gcc -o extrator extrator.c
+gcc -o extrator main.c
 ```
 ## 🚀 Como usar
 
