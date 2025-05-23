@@ -64,16 +64,16 @@ gcc -o extrator main.c
 
 ## 🔒 Permissões
 
-### Este programa pode pedir sua senha de sudo ao instalar yt-dlp ou ffmpeg, caso eles não estejam disponíveis no sistema.
+#### Este programa pode pedir sua senha de sudo ao instalar yt-dlp ou ffmpeg, caso eles não estejam disponíveis no sistema.
 
 ## 🤝 Contribuições
 
-### Contribuições são bem-vindas! Se você tiver sugestões, correções ou quiser expandir o projeto, fique à vontade para abrir issues ou enviar pull requests.
+#### Contribuições são bem-vindas! Se você tiver sugestões, correções ou quiser expandir o projeto, fique à vontade para abrir issues ou enviar pull requests.
 
 ## 📜 Licença
 
-### Este projeto é de código aberto, licenciado sob a MIT License.
+#### Este projeto é de código aberto, licenciado sob a MIT License.
 
 ## 💡 Objetivo
 
-### Este programa foi desenvolvido com foco em acessibilidade e liberdade de uso. A ideia é permitir que qualquer pessoa — até mesmo iniciantes em programação — possam usar e entender como funciona por trás dos bastidores, incentivando o uso de software livre.
+#### Este programa foi desenvolvido com foco em acessibilidade e liberdade de uso. A ideia é permitir que qualquer pessoa — até mesmo iniciantes em programação — possam usar e entender como funciona por trás dos bastidores, incentivando o uso de software livre.
