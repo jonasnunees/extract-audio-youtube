@@ -112,11 +112,13 @@ int main(int argc, char *argv[]) {
         snprintf(comando, sizeof(comando),
                  "yt-dlp -x --audio-format mp3 -P %s \"%s\"", DOWNLOAD_DIR, url);
     }
+    
     // Monta o comando para extrair o áudio em WAV
     else if (strcmp(formato, "--wav") == 0) {
         snprintf(comando, sizeof(comando),
                  "yt-dlp -x --audio-format wav -P %s \"%s\"", DOWNLOAD_DIR, url);
     }
+    
     // Se o usuário passou uma opção inválida de formato
     else {
         printf("Formato inválido. Use --mp3 ou --wav\n");
