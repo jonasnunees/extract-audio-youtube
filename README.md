@@ -72,7 +72,7 @@ gcc -o extrator main.c
 
 ## 📜 Licença
 
-#### Este projeto é de código aberto, licenciado sob a MIT License.
+#### Este projeto é de código aberto, licenciado sob a GNU General Public License.
 
 ## 💡 Objetivo
 
